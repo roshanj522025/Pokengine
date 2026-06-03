@@ -6,7 +6,7 @@
     android:viewportHeight="108">
     <!-- Pokeball top half -->
     <path
-        android:fillColor="#FFCB05"
+        android:fillColor="#00E5FF"
         android:pathData="M54,20 C35,20 20,35 20,54 L88,54 C88,35 73,20 54,20 Z"/>
     <!-- Pokeball bottom half -->
     <path
@@ -14,14 +14,14 @@
         android:pathData="M20,54 C20,73 35,88 54,88 C73,88 88,73 88,54 Z"/>
     <!-- Pokeball center band -->
     <path
-        android:fillColor="#333333"
+        android:fillColor="#0A0A0A"
         android:pathData="M20,51 L88,51 L88,57 L20,57 Z"/>
     <!-- Pokeball center button outline -->
     <path
-        android:fillColor="#333333"
+        android:fillColor="#0A0A0A"
         android:pathData="M54,54 m-10,0 a10,10 0 1,0 20,0 a10,10 0 1,0 -20,0"/>
     <!-- Pokeball center button inner -->
     <path
-        android:fillColor="#FFFFFF"
+        android:fillColor="#00E5FF"
         android:pathData="M54,54 m-6,0 a6,6 0 1,0 12,0 a6,6 0 1,0 -12,0"/>
 </vector>
